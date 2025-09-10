@@ -10,4 +10,4 @@
    web-plantilla:
      build: ./web-plantilla/web-plantilla
      ports:
-       - 8000:8001
+       - 8000:8002
