@@ -8,6 +8,6 @@
      ports:
        - 8080:80
    web-plantilla:
-     build: ./web-plantilla/api-students
+     build: ./web-plantilla/web-plantilla
      ports:
        - 8000:8001
