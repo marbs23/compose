@@ -8,6 +8,6 @@
      ports:
        - 8080:80
    web-plantilla:
-     build: ./web-plantilla/web-plantilla
+     build: ./web-plantilla
      ports:
-       - 8000:8002
+       - 8000:8001
